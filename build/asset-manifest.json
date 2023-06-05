@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.4243f62b.css",
-    "main.js": "./static/js/main.20154b23.js",
+    "main.js": "./static/js/main.c180ea58.js",
     "static/js/787.b09a76b7.chunk.js": "./static/js/787.b09a76b7.chunk.js",
     "static/media/bmwX5.jpg": "./static/media/bmwX5.76a03c59649065d98cfd.jpg",
     "static/media/toyotaCamry.png": "./static/media/toyotaCamry.53e7566371267edad34f.png",
@@ -30,11 +30,11 @@
     "static/media/kiaSoul.jpg": "./static/media/kiaSoul.b536eab5d3e89222f533.jpg",
     "index.html": "./index.html",
     "main.4243f62b.css.map": "./static/css/main.4243f62b.css.map",
-    "main.20154b23.js.map": "./static/js/main.20154b23.js.map",
+    "main.c180ea58.js.map": "./static/js/main.c180ea58.js.map",
     "787.b09a76b7.chunk.js.map": "./static/js/787.b09a76b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4243f62b.css",
-    "static/js/main.20154b23.js"
+    "static/js/main.c180ea58.js"
   ]
 }
