@@ -33,7 +33,7 @@ router.post('/',isAdmin, vehiculeController.createVehicule);
 router.get('/', vehiculeController.getAllVehicules);
 
 // Route pour obtenir les détails d'un véhicule spécifique
-router.get('/:id',isClient, vehiculeController.getVehiculeById);
+router.get('/:id', vehiculeController.getVehiculeById);
 
 // Route pour mettre à jour les informations d'un véhicule spécifique
 router.put('/:id',isAdmin, vehiculeController.updateVehiculeById);
