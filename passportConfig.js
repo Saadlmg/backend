@@ -107,13 +107,22 @@ passport.serializeUser((client, done) => {
   
   passport.deserializeUser(async (id, done) => {
     try {
-      // Find the user by ID
-      const client = await client.findById(id);
-      done(null, user);
+      // Find the client by ID
+      const client = await Client.findByPk(id);
+      const admin = await Admin.findByPk(id);
+  
+      if(client) {
+        done(null, client);
+      } else if(admin) {
+        done(null, admin);
+      } else {
+        throw new Error('User not found');
+      }
     } catch (error) {
       done(error);
     }
   });
   
+  
 
-  module.exports = { getUserFromDatabase };
+  module.exports = { getUserFromDatabase, passport };
