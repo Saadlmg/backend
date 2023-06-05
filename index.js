@@ -4,6 +4,7 @@ const session = require('express-session');
 const bcrypt = require('bcrypt');
 const cors = require('cors');
 const init = require('./initialize.js');
+const path = require('path')
 const app = express();
 
 const adminsRoutes = require('./routeur/admins.js');
@@ -34,6 +35,14 @@ app.use('/api/locations', locationsRoutes);
 app.use('/api/paiements', paiementsRoutes);
 app.use('/api/reservations', reservationsRoutes);
 app.use('/api/vehicules', vehiculesRoutes);
+
+
+const buildPath = path.join(__dirname, 'build')
+app.use(express.static(buildPath))
+// gets the static files from the build folder
+app.get('*', (req, res) => {
+  res.sendFile(path.join(buildPath, 'index.html'))
+})
 
 app.listen(3000, () => {
   console.log('Server is listening on port 3000');
