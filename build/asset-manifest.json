@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4243f62b.css",
+    "main.js": "./static/js/main.c180ea58.js",
+    "static/js/787.b09a76b7.chunk.js": "./static/js/787.b09a76b7.chunk.js",
+    "static/media/bmwX5.jpg": "./static/media/bmwX5.76a03c59649065d98cfd.jpg",
+    "static/media/toyotaCamry.png": "./static/media/toyotaCamry.53e7566371267edad34f.png",
+    "static/media/lexusES.jpg": "./static/media/lexusES.605caf450f7196ef0429.jpg",
+    "static/media/bentleyContinental.jpg": "./static/media/bentleyContinental.538928fa00d1add7ccc7.jpg",
+    "static/media/renaultClio.png": "./static/media/renaultClio.e60a4de785af8098d75e.png",
+    "static/media/mercedesCClass.jpg": "./static/media/mercedesCClass.d3a8825b9759f0f6e6d1.jpg",
+    "static/media/peugeot1007.jpg": "./static/media/peugeot1007.45fc2c17e38dd85cefed.jpg",
+    "static/media/hyundaiTucson.jpg": "./static/media/hyundaiTucson.1469ffd7f5f5bc74c814.jpg",
+    "static/media/subaruOutback.jpg": "./static/media/subaruOutback.fec6a40fa5dd48f6e656.jpg",
+    "static/media/chevroletImpala.jpg": "./static/media/chevroletImpala.8a09259c59ed430695f4.jpg",
+    "static/media/jeepWrangler.jpg": "./static/media/jeepWrangler.dc3cac918a3a0969909e.jpg",
+    "static/media/peugeot308.png": "./static/media/peugeot308.a6a3348efaa84bcf2a2f.png",
+    "static/media/nissanRogue.jpg": "./static/media/nissanRogue.37dfd5c95109d83a0a2e.jpg",
+    "static/media/seatLeon.jpg": "./static/media/seatLeon.111d994e4d2c3b81b1bd.jpg",
+    "static/media/mercedesAMGA45.jpg": "./static/media/mercedesAMGA45.f71b3242ce7c07c029b2.jpg",
+    "static/media/fiat500.jpg": "./static/media/fiat500.ec48fda92963ac910f21.jpg",
+    "static/media/largeChoix.jpg": "./static/media/largeChoix.76dbb4666d01e3db94dc.jpg",
+    "static/media/mazdaCX5.jpg": "./static/media/mazdaCX5.30235d3ffcbdddb5d609.jpg",
+    "static/media/audiRS6.jpg": "./static/media/audiRS6.fe49b46c2967a5d9fc08.jpg",
+    "static/media/teslaModelS.jpg": "./static/media/teslaModelS.719a6cdd79f57524859c.jpg",
+    "static/media/opelCorsa.jpg": "./static/media/opelCorsa.1852e4d1c1995b7f78df.jpg",
+    "static/media/audiA4.jpg": "./static/media/audiA4.98f1bd2faebcc8ed4607.jpg",
+    "static/media/volkswagenGolf.jpg": "./static/media/volkswagenGolf.cdabe724198fe34a9ce7.jpg",
+    "static/media/fordMustang.jpg": "./static/media/fordMustang.f733d0444050673d33dc.jpg",
+    "static/media/kiaSoul.jpg": "./static/media/kiaSoul.b536eab5d3e89222f533.jpg",
+    "index.html": "./index.html",
+    "main.4243f62b.css.map": "./static/css/main.4243f62b.css.map",
+    "main.c180ea58.js.map": "./static/js/main.c180ea58.js.map",
+    "787.b09a76b7.chunk.js.map": "./static/js/787.b09a76b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4243f62b.css",
+    "static/js/main.c180ea58.js"
+  ]
+}
